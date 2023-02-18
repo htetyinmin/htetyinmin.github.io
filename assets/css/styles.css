@@ -301,7 +301,7 @@ img{
 }
 
 .home__blob-img{
-    width: 200px;
+    width: 210px;
 }
 
 .home__data{
@@ -413,6 +413,11 @@ img{
     margin-bottom: var(--mb-2-5);
 }
 
+.about__div{
+    text-align: justify;
+    margin-bottom: var(--mb-2);
+}
+
 .about__info{
     display: flex;
     justify-content: space-evenly;
@@ -513,35 +518,29 @@ img{
     width: 60%;
 }
 .skills__vue{
-    width: 30%;
+    width: 10%;
 }
 
 /* SKILL 2 */
-.skills__php{
-    width: 70%;
+.skills__ps{
+    width: 80%;
 }
-.skills__laravel{
-    width: 60%;
+.skills__is{
+    width: 85%;
 }
-.skills__sql{
-    width: 75%;
+.skills__in{
+    width: 90%;
 }
-.skills__py{
-    width: 50%;
+.skills__lr{
+    width: 100%;
 }
 
 /* SKILL 3 */
-.skills__ps{
-    width: 50%;
-}
-.skills__is{
-    width: 70%;
-}
 .skills__xd{
     width: 40%;
 }
 .skills__figma{
-    width: 10%;
+    width: 50%;
 }
 
 /* SKILL 4 */
@@ -553,6 +552,9 @@ img{
 }
 .skills__jp{
     width: 50%;
+}
+.skills__ch{
+    width: 20%;
 }
 
 .skills__close .skills__list{
